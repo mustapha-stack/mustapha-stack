@@ -1,41 +1,58 @@
 
 <h1 align="center">Hi 👋, I'm Mustapha</h1>
 
-### 📫 Connect with me
+<h3 align="center">🐍 Python Developer | Software Development Enthusiast</h3>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/TON-PROFIL/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:TON-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer;Always+Learning;Building+New+Projects&center=true&width=500&height=45" />
 </p>
-
-- GitHub: https://github.com/mustapha-stack
-
-<h3 align="center">Python Developer | Programming Enthusiast</h3>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🐍 Interested in Python programming
-- 🎓 Python certification
+- 🐍 Passionate about Python programming
+- 🎓 Python certified
 - 💻 Learning software development
-- 🚀 Building Python projects
+- 🚀 Working on Python projects
 - 📚 Always learning new technologies
 
-### 🛠️ Skills
+## 🛠️ Languages and Tools
 
-- Python
-- Git & GitHub
-- Problem Solving
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+</p>
 
-### 📂 My Projects
+## 📜 Certifications
 
-Coming soon! 🚀
+- 🏆 Python Certificate
 
-### 📫 Connect with me
+## 📊 GitHub Statistics
 
-- GitHub: https://github.com/mustapha-stack
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustapha-stack&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustapha-stack&layout=compact&theme=tokyonight" />
+</p>
+
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://github.com/mustapha-stack">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:TON-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/TON-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
