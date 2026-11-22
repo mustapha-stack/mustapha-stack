@@ -15,7 +15,7 @@
  
 ---
 
-## 🏆 Python Certification
+🎓 Certifications
  <h3 align="left">PCEP-30-03</h3>
 
 <p align="left">
