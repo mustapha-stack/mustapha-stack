@@ -71,24 +71,4 @@ Compétences 🛠️
   />
 </p>
 
----
-
-## 🚀 My Projects
-
-<p align="center">
-  <a href="https://github.com/mustapha-stack?tab=repositories">
-    <img src="https://img.shields.io/badge/My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
  
- 
-
----
-
-<p align="center">
-  💡 "Learning today, building tomorrow."
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
