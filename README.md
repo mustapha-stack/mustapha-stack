@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Mustapha Belhaouari</h1>
+<h2 align="center">Bonjour, je suis Mustapha Belhaouari</h2>
 
 
 <p align="left">
