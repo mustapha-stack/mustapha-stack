@@ -2,9 +2,11 @@
 <h3 align="left">Bonjour, je suis Mustapha Belhaouari 👋</h3>
 <hr />
 <p align="left">
-  <a href="www.linkedin.com/in/mustapha-belhaouari-89310a183">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
+<a href="https://www.linkedin.com/in/mustapha-belhaouari-89310a183/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
   <a href="mailto:belhaouari85@gmail.com@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
