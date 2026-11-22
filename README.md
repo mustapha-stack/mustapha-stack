@@ -1,5 +1,5 @@
 
-<h2 align="center">Bonjour, je suis Mustapha Belhaouari</h2>
+<h3 align="left">Bonjour, je suis Mustapha Belhaouari 👋</h3>
 
 
 <p align="left">
@@ -15,7 +15,9 @@
  
 ---
 
-🎓 Certifications
+<h3 align="left">🎓 Certifications</h3>
+
+
  <h3 align="left">PCEP-30-03</h3>
 
 <p align="left">
@@ -28,8 +30,8 @@
   </a>
 </p>
 
+<h3 align="left">## 👨‍💻 À propos de moi</h3>
 
-## 👨‍💻 À propos de moi
 
 -  Développeur Python certifié (PCEP-30-03).
 -  Passionné par la programmation et le développement logiciel.
@@ -42,8 +44,9 @@
 
 
 ---
+<h3 align="left">Compétences 🛠️</h3>
 
-Compétences 🛠️
+
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,pycharm" />
@@ -52,7 +55,8 @@ Compétences 🛠️
 
 ---
 
-## 📊 GitHub Statistics
+<h3 align="left">GitHub Statistics 🛠️</h3>
+
 
 <p align="center">
   <img
