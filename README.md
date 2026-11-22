@@ -1,7 +1,6 @@
 
 <h3 align="left">Bonjour, je suis Mustapha Belhaouari 👋</h3>
-
-
+<hr />
 <p align="left">
   <a href="https://www.linkedin.com/in/TON-LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -11,15 +10,10 @@
   </a>
  
 </p>
-
  
----
 
 <h3 align="left">🎓 Certifications</h3>
-
-
- <h3 align="left">PCEP-30-03</h3>
-
+<hr />
 <p align="left">
   <a href="https://verify.openedg.org/?id=ARsS.1DJv.gD8X" target="_blank">
     <img
@@ -30,8 +24,8 @@
   </a>
 </p>
 
-<h3 align="left">## 👨‍💻 À propos de moi</h3>
-
+<h3 align="left">À propos de moi</h3>
+<hr />
 
 -  Développeur Python certifié (PCEP-30-03).
 -  Passionné par la programmation et le développement logiciel.
@@ -42,10 +36,9 @@
 -  Motivé par l'apprentissage continu et les nouvelles technologies.
 -  Mon objectif : développer des solutions innovantes en Python et en intelligence artificielle.
 
-
----
+ 
 <h3 align="left">Compétences 🛠️</h3>
-
+<hr />
 
 
 <p align="left">
@@ -53,10 +46,8 @@
 </p>
  
 
----
-
 <h3 align="left">GitHub Statistics 🛠️</h3>
-
+<hr />
 
 <p align="center">
   <img
